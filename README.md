@@ -1,4 +1,4 @@
 # Medical-Cost-Regression-Prediction
-Experimenting with Regression Models
+### Experimenting with Regression Models
 
-dataset: https://www.kaggle.com/mirichoi0218/insurance
+dataset credit: https://www.kaggle.com/mirichoi0218/insurance
